@@ -29,4 +29,4 @@ The robot communication server depends on a custom version of the KUKA Fri libra
 6. (Optionally) Execute the planned insertion from surface point to target
 
 ## How To Cite ##
-Neidhardt, Maximilian, et al. "Robotic tissue sampling for safe post-mortem biopsy in infectious corpses." IEEE transactions on medical robotics and bionics 4.1 (2022): 94-105.
+
